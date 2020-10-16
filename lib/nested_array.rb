@@ -32,7 +32,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  array = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
+  produce_storage_room = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
   
  
   # Using Array literal syntax only, build another nested array that 
@@ -41,7 +41,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-sorted_matrix[1][1]
+produce_storage_room
 
 
   # Given any matrix (array of arrays), a row index and a column index, 

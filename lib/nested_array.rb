@@ -57,13 +57,11 @@ end
 def matrix_update(matrix, row, column, new_value)
  
  produce_storage_room = [ 
-         #0            #1         #2          #3           #4
-   ["Grapefruit", "Pineapple", "Onions", "Watermelon", "Eggplant"], #0
-   ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"] #1
+  spice_rack_pretty = [
+  ["Mace", "Ginger", "Marjoram"],
+  ["Paprika", "Fajita Mix", "Coriander"],
+  ["Parsley", "Sage", "Rosemary"]
 ]
- produce_storage_room[0][2]
-  
-  
   # Given any matrix (array of arrays), a row index and a column index, 
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix

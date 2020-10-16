@@ -41,7 +41,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-matrix_lookup
+matrix_lookup[1][1]
  
 
 

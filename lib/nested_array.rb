@@ -18,11 +18,11 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
 
- produce_storage_room = [
-    ["Eggplant", "Grapefruit", "Oranges", "Pineapple","Watermelon"],
-    ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
-  ]
-
+  produce_storage_room = [ 
+  
+   ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], 
+   ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"]
+]
   
   
   # Build an array that contains both of the above arrays

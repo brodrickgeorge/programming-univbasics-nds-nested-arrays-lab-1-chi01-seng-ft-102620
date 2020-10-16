@@ -34,7 +34,13 @@ conventional_produce = [
 ]
 ]
 
-  
+  conventional_produce = [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
+]
   
   
   # Build an array that contains both of the above arrays

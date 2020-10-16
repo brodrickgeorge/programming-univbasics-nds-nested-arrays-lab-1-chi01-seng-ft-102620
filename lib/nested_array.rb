@@ -61,7 +61,7 @@ def matrix_update(matrix, row, column, new_value)
    ["Grapefruit", "Pineapple", "Onions", "Watermelon", "Eggplant"], #0
    ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"] #1
 ]
- produce_storage_room[0][2][3]
+ produce_storage_room[0][2]
   
   
   # Given any matrix (array of arrays), a row index and a column index, 

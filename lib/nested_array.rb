@@ -22,7 +22,7 @@ def assembled_matrix
    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
 ]
 
-
+sorted_matrix
   
   
   # Build an array that contains both of the above arrays

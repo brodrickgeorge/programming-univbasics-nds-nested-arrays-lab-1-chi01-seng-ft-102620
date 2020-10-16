@@ -47,7 +47,7 @@ def matrix_lookup(matrix, row, column)
    ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"]
 ]
 
-
+array = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
 
 
 

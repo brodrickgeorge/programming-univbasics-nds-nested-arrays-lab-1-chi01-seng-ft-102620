@@ -21,7 +21,7 @@ def assembled_matrix
   produce_storage_room = [ 
   
    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], 
-   ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"]
+   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
 ]
   
   

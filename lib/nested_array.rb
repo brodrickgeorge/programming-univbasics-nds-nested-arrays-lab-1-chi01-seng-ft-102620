@@ -32,7 +32,10 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  produce_storage_room = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
+  produce_storage_room = [
+    ["Eggplant", "Grapefruit", "Oranges", "Pineapple","Watermelon"],
+    ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
+  ]
   
  
   # Using Array literal syntax only, build another nested array that 

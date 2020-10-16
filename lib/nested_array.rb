@@ -57,7 +57,7 @@ end
 def matrix_update(matrix, row, column, new_value)
  
  produce_storage_room = [ 
-  spice_rack_pretty = [
+  
   ["Mace", "Ginger", "Marjoram"],
   ["Paprika", "Fajita Mix", "Coriander"],
   ["Parsley", "Sage", "Rosemary"]

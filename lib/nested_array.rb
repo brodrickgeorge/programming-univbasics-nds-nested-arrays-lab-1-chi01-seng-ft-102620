@@ -43,13 +43,7 @@ end
 def matrix_lookup(matrix, row, column)
  
 
- produce_storage_room = [ 
-  
-  ["Mace", "Ginger", "Marjoram"],
-  ["Paprika", "Fajita Mix", "Coriander"],
-  ["Parsley", "Sage", "Rosemary"]
-]
-produce_storage_room
+ 
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
 end

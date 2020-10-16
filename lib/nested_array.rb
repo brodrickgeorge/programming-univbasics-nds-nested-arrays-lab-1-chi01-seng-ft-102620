@@ -48,7 +48,7 @@ def matrix_lookup(matrix, row, column)
 ]
 
 
-produce_storage_room[1][1]
+matrix_lookup
 
 
   # Given any matrix (array of arrays), a row index and a column index, 

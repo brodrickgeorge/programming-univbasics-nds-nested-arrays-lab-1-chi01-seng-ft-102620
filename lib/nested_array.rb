@@ -50,7 +50,7 @@ def matrix_lookup(matrix, row, column)
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   ]
   
-  produce_storage_room[1][1]
+  what[1][1]
 
 
   # Given any matrix (array of arrays), a row index and a column index, 

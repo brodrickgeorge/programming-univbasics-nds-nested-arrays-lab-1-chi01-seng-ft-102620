@@ -25,7 +25,7 @@ def assembled_matrix
   "Eggplant"]
   
   
- ["Strawberries",
+ ]["Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
